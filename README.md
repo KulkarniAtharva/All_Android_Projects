@@ -59,7 +59,9 @@ ___
 
 ## GitExplorer
 
+<img src="https://github.com/KulkarniAtharva/GitExplorer/blob/master/Screenshots/gitexplorer1.jpg" height="500"  hspace="40"><img src="https://github.com/KulkarniAtharva/GitExplorer/blob/master/Screenshots/gitexplorer2.jpg" height="500" hspace="40">
 
+<img src="https://github.com/KulkarniAtharva/GitExplorer/blob/master/Screenshots/gitexplorer3.jpg" height="500" hspace="40"><img src="https://github.com/KulkarniAtharva/GitExplorer/blob/master/Screenshots/gitexplorer4.jpg" height="500" hspace="40">
 
 ___
 
