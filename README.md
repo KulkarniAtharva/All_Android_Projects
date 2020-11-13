@@ -35,7 +35,17 @@ ___
 
 ## Devfest
 
-
+<table style="width:100%">
+  <tr>
+    <th>Screenshot 1</th>
+    <th>Screenshot 2</th> 
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/47221267/99056224-056e5f00-25c0-11eb-8987-f55eba1cc67d.jpg" width="300px"></td>
+    <td><img src="https://user-images.githubusercontent.com/47221267/99056641-9d6c4880-25c0-11eb-91ad-06829560e3c0.jpg" width="300px"></td> 
+  </tr>      
+ 
+</table>
 
 
 ___
