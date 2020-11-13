@@ -5,6 +5,7 @@ Here you can find all my Android projects done in Java & Kotlin
 - [E-Commerce](https://github.com/KulkarniAtharva/E-Commerce-Android)
 - [Messenger](https://github.com/KulkarniAtharva/Messenger-Android)
 - [KKW Alerts](https://github.com/KulkarniAtharva/KKW_Alerts)
+- [Movie Finder](https://github.com/KulkarniAtharva/Movie_Finder-Android)
 - [Devfest](https://github.com/KulkarniAtharva/DevFest-Android)
 - [Tinder SignIn & SignUp](https://github.com/KulkarniAtharva/Tinder_Login_SignUp-Android)
 - [GitExplorer](https://github.com/KulkarniAtharva/GitExplorer)
