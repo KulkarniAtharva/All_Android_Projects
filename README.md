@@ -76,6 +76,20 @@ ___
 ## Dating App
 
 
+<table style="width:100%">
+  <tr>
+    <th>Match Preferences</th>
+    <th>App preferences</th> 
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/47221267/99144757-84ca6400-268e-11eb-9c22-b83a9bf102e8.jpg" width="300px"></td>
+    <td><img src="" width="300px"></td> 
+  </tr>      
+ 
+</table>
+
+![match_preferences]()
+
 
 ___
 
