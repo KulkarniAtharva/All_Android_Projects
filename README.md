@@ -1,7 +1,7 @@
 
 
 
-★★★★★★★★★  ANDROID  ★★★★★★★★★
+★★★★★★★★★ MY ANDROID SKILLS ★★★★★★★★★
 - Developing Android Applications since 2 years
 - Programming skills in Java, Kotlin and familiarity with the Android SDK
 -	Experience in creating and sending HTTP GET/POST requests and parsing the response in different formats
