@@ -2,17 +2,17 @@
 
 
 ★★★★★★★★★  ANDROID  ★★★★★★★★★
-•	Developing Android Applications since 2 years
-•	Programming skills in Java, Kotlin and familiarity with the Android SDK
-•	Experience in creating and sending HTTP GET/POST requests and parsing the response in different formats
-•	Good understanding of Data Structure, Algorithms
-•	Strong knowledge of Android Activity and Service lifecycle
-•	Proficiency in Object oriented Architecture, Design and programming from design to implementation
-•	Good understanding of Software Development lifecycle (SDLC) and GIT
-•	Consumed Web services (Restful) to retrieve data in JSON format and display the results in app
-•	Worked using third party libraries, support libraries and animations
-•	Familiar with GSON, Picasso, Glide, Retrofit and Butter Knife library
-•	Familiar with Dagger2 & Koin Dependency Injection & Android Jetpack Component
+- Developing Android Applications since 2 years
+- Programming skills in Java, Kotlin and familiarity with the Android SDK
+-	Experience in creating and sending HTTP GET/POST requests and parsing the response in different formats
+- Good understanding of Data Structure, Algorithms
+-	Strong knowledge of Android Activity and Service lifecycle
+-	Proficiency in Object oriented Architecture, Design and programming from design to implementation
+-	Good understanding of Software Development lifecycle (SDLC) and GIT
+-	Consumed Web services (Restful) to retrieve data in JSON format and display the results in app
+-	Worked using third party libraries, support libraries and animations
+-	Familiar with GSON, Picasso, Glide, Retrofit and Butter Knife library
+-	Familiar with Dagger2 & Koin Dependency Injection & Android Jetpack Component
 
 
 Here you can find all my Android projects done in Java & Kotlin 
