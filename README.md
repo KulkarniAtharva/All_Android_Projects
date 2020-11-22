@@ -1,4 +1,4 @@
-# All Android Projects
+
 
 
 ★★★★★★★★★  ANDROID  ★★★★★★★★★
@@ -14,6 +14,9 @@
 -	Familiar with GSON, Picasso, Glide, Retrofit and Butter Knife library
 -	Familiar with Dagger2 & Koin Dependency Injection & Android Jetpack Component
 
+<BR><BR>
+
+# All Android Projects
 
 Here you can find all my Android projects done in Java & Kotlin 
 
