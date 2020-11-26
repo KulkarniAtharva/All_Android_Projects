@@ -24,13 +24,16 @@ Here you can find all my Android projects done in Java & Kotlin
 - [Messenger](https://github.com/KulkarniAtharva/Messenger-Android)
 - [KKW Alerts](https://github.com/KulkarniAtharva/KKW_Alerts)
 - [Movie Finder](https://github.com/KulkarniAtharva/Movie_Finder-Android)
-- [Devfest](https://github.com/KulkarniAtharva/DevFest-Android)
-- [Tinder SignIn & SignUp](https://github.com/KulkarniAtharva/Tinder_Login_SignUp-Android)
 - [GitExplorer](https://github.com/KulkarniAtharva/GitExplorer)
 - [Bus Tracking](https://github.com/KulkarniAtharva/KKW_Bus_Tracking)
-- [Dating App](https://github.com/KulkarniAtharva/Go_Gaga_internship)
 - [Tic-Tac-Toe](https://github.com/KulkarniAtharva/Tic-Tac-Toe_Android_App)
 - [Calculator](https://github.com/KulkarniAtharva/Calculator_Android_App)
+
+### Android UI
+
+- [Devfest](https://github.com/KulkarniAtharva/DevFest-Android)
+- [Tinder SignIn & SignUp](https://github.com/KulkarniAtharva/Tinder_Login_SignUp-Android)
+- [Dating App](https://github.com/KulkarniAtharva/Go_Gaga_internship)
 
 ## E-Commerce
 
