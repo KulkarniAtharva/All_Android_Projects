@@ -34,6 +34,7 @@ Here you can find all my Android projects done in Java & Kotlin
 - [Devfest](https://github.com/KulkarniAtharva/DevFest-Android)
 - [Tinder SignIn & SignUp](https://github.com/KulkarniAtharva/Tinder_Login_SignUp-Android)
 - [Dating App](https://github.com/KulkarniAtharva/Go_Gaga_internship)
+- [Grocery App](https://github.com/KulkarniAtharva/GroceryUI-Android)
 
 ## E-Commerce
 
