@@ -13,6 +13,7 @@
 -	Worked using third party libraries, support libraries and animations
 -	Familiar with GSON, Picasso, Glide, Retrofit and Butter Knife library
 -	Familiar with Dagger2 & Koin Dependency Injection & Android Jetpack Component
+- Services & Broascast Receivers
 
 <BR><BR>
 
